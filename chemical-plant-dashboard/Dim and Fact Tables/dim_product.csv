@@ -1,0 +1,4 @@
+ProductID,Product_Name,Hazard_Class,Boiling_Point_C
+101,Ethanol,Flammable,78
+102,Acetone,Flammable,56
+103,Benzene,Toxic,80

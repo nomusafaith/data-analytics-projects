@@ -1,0 +1,7 @@
+UnitID,Unit_Type,Commissioned_Year,MaxPressure_kPa,MaxTemperature_C
+1,Reactor,2010,5000,450
+2,Distillation,2012,4500,380
+3,Heat Exchanger,2015,3000,300
+4,Reactor,2018,5200,460
+5,Distillation,2020,4700,390
+6,Heat Exchanger,2019,3200,310
